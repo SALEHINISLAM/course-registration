@@ -6,6 +6,7 @@ import Courses from './components/course/Courses'
 import Navbar from './components/Navbar/Navbar'
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
+import './assets';
 
 function App() {
 
