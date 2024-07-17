@@ -1,8 +1,10 @@
-# React + Vite
+Feature:
+-You can Add course
+-You can calculate your credit hour'
+-Toast will show when you add more than 20 credit hour
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I make it with vite, react, tailwind. At first make a json file then fetch data from it. Then install react icon, then toast etc. I got stuck when deployed site don't show img but showed in local host. Then after much struggle I know that it follow a tree. So I saved file in public folder and no it is ok!
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Now the live website link are given below. Browse and check the website. 
+netlify: https://quiet-kangaroo-52ec70.netlify.app/
+vercel: https://course-registration-weld.vercel.app/

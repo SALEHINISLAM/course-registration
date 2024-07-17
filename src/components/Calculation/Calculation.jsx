@@ -16,7 +16,7 @@ const Calculation = ({selected , cdtHr}) => {
     return (
         <div className='bg-white p-4 rounded-xl w-full'>
             <h2 className='text-[#2F80ED] text-lg font-bold border-b pb-3'>Credit Hour Remaining {20-crdtHr} hr</h2>
-            <h2 className='text-black text-xl font-bold py-3'>Course Name:{selected.length}</h2>
+            <h2 className='text-black text-xl font-bold py-3'>Course Name</h2>
             <ul className='list-decimal space-y-1 text-base text-[#1C1B1B] text-opacity-60 pl-4'>
                 {/* course name */}
                 {
