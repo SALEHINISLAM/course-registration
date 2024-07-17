@@ -5,7 +5,7 @@
       "course_details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
       "price": 15000,
       "credit_hour": 1,
-      "course_img": "/src/assets/Rectangle 2-1.png"
+      "course_img": "https://raw.githubusercontent.com/SALEHINISLAM/course-registration/main/src/assets/Rectangle 2-1.png"
     },
     {
       "id": 2,
@@ -13,7 +13,7 @@
       "course_details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
       "price": 25000,
       "credit_hour": 2,
-      "course_img": "/src/assets/Rectangle 2-2.png"
+      "course_img": "https://raw.githubusercontent.com/SALEHINISLAM/course-registration/main/src/assets/Rectangle 2-2.png"
     },
     {
       "id": 3,
@@ -21,7 +21,7 @@
       "course_details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
       "price": 10000,
       "credit_hour": 10,
-      "course_img": "/src/assets/Rectangle 2-3.png"
+      "course_img": "https://raw.githubusercontent.com/SALEHINISLAM/course-registration/main/src/assets/Rectangle 2-3.png"
     },
     {
       "id": 4,
@@ -29,7 +29,7 @@
       "course_details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
       "price": 32000,
       "credit_hour": 5,
-      "course_img": "/src/assets/Rectangle 2-4.png"
+      "course_img": "https://raw.githubusercontent.com/SALEHINISLAM/course-registration/main/src/assets/Rectangle 2-4.png"
     },
     {
       "id": 5,
@@ -37,7 +37,7 @@
       "course_details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
       "price": 19000,
       "credit_hour": 5,
-      "course_img": "/src/assets/Rectangle 2-5.png"
+      "course_img": "https://raw.githubusercontent.com/SALEHINISLAM/course-registration/main/src/assets/Rectangle 2-5.png"
     },
     {
       "id": 6,
@@ -45,7 +45,7 @@
       "course_details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
       "price": 19000,
       "credit_hour": 2,
-      "course_img": "/src/assets/Rectangle 2-6.png"
+      "course_img": "https://raw.githubusercontent.com/SALEHINISLAM/course-registration/main/src/assets/Rectangle 2-6.png"
     },
     {
       "id": 7,
@@ -53,7 +53,7 @@
       "course_details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
       "price": 35000,
       "credit_hour": 5,
-      "course_img": "/src/assets/Rectangle 2.png"
+      "course_img": "https://raw.githubusercontent.com/SALEHINISLAM/course-registration/main/src/assets/Rectangle 2.png"
     },
     {
       "id": 8,
@@ -61,7 +61,7 @@
       "course_details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
       "price": 19000,
       "credit_hour": 5,
-      "course_img": "/src/assets/Rectangle 3-1.png"
+      "course_img": "https://raw.githubusercontent.com/SALEHINISLAM/course-registration/main/src/assets/Rectangle 3-1.png"
     },
     {
       "id": 9,
@@ -69,7 +69,7 @@
       "course_details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
       "price": 23000,
       "credit_hour": 2,
-      "course_img": "/src/assets/Rectangle 3.png"
+      "course_img": "https://raw.githubusercontent.com/SALEHINISLAM/course-registration/main/src/assets/Rectangle 3.png"
     }
   ]
   
