@@ -35,7 +35,7 @@ const Course =({course, handleSelectedCourse})=>{
                     <Toast></Toast>
                 }
                 else{
-                    handleSelectedCourse(course)
+                    handleSelectedCourse(course, course.id)
                 }
             }}
             >Select</button>

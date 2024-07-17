@@ -10,19 +10,24 @@ import 'react-toastify/dist/ReactToastify.css';
 function App() {
 
   const [selected,setSelected]= useState([]);
+  const [cdtHr, setCdtHr]=useState(0);
 
-  let cdtHr=0;
+  //let cdtHr=0;
 
-  function handleSelectedCourse(course){
-    let credit=parseInt(course.credit_hour);
-    cdtHr+=credit;
-    console.log(cdtHr);
+  function handleSelectedCourse(course,id){
+    const newCdtHr=parseInt(course.credit_hour)+cdtHr;
+    // let credit=parseInt(course.credit_hour);
+    // cdtHr+=credit;
+    // console.log(cdtHr);
+    setCdtHr(newCdtHr);
     if ((selected.includes(course))===false && cdtHr<parseInt(20)) {
       const newSelectedCourse=[...selected,course];
       setSelected(newSelectedCourse);
     }
     else if(cdtHr>20){
-      alert('More than 20 credit hour is not allowed')
+      toast.error('More Than 20 credit hour is not allowed')
+      const remainingSelected=selected.filter(course=>course.id!==id);
+      setSelected(remainingSelected);
     }
   }
   
